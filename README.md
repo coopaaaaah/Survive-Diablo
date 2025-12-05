@@ -15,3 +15,8 @@ Day 2, 2025/12/02
 - Added Player Movement
 - Centered Camera to Follow Player
 - Stretch: Add Intermediary Scene for Act/Character Selection
+
+Day 3, 2025/12/04
+- Reviewing Chunk Generation and Random Prop Generation
+- Basic Tile Painting
+- Random Prop Prefab Generation
