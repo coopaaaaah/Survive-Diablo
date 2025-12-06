@@ -25,3 +25,6 @@ Day 4, 2025/12/05
 - Basic, basic chunk generation
 - Reworked to capture normalized direction
 - allowed octo directional movement
+
+Day 5, 2025/12/06
+- Map optimizations
